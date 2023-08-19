@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/CODE-LUA-purple?style=for-the-badge&logo=lua)](#)
 [![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/VERSION-v1.0-green?style=for-the-badge)](#)
-![](https://komarev.com/ghpvc/?username=DU-Locura-Storage-Info&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=DU-Factory-Info&style=for-the-badge)
 ---
 [![](https://img.shields.io/github/issues/locuradu/DU-Factory-Info?style=flat-square&label=ISSUES)](#)
 [![](https://img.shields.io/github/issues-closed/locuradu/DU-Factory-Info?style=flat-square&label=ISSUES)](#)
