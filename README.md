@@ -34,7 +34,7 @@
 [![](https://img.shields.io/badge/Wiki-Usage-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Factory-Info/wiki/Usage)
 
 # Screen And Sign Compatibility
-[![](https://img.shields.io/badge/Wiki-Screen%20And%20Sign%20Compatibility-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Storage-Info/wiki/Screen-And-Sign-Compatibility)
+[![](https://img.shields.io/badge/Wiki-Screen%20And%20Sign%20Compatibility-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Factory-Info/wiki/Screen-And-Sign-Compatibility)
 
 # Ways To Help
 - Contribute new code, or updating whats already here
