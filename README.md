@@ -24,7 +24,7 @@
 [![](https://img.shields.io/github/license/LocuraDU/DU-Factory-Info?label=LICENSE&style=flat-square)](#)
 
 # Preview
-![v2.0](img/20230819043704_1.jpg)
+![v2.0](img/20230819050904_1.jpg)
 ![v2.0](img/20230819043704_1.jpg) 
 ![v2.0](img/20230819043711_1.jpg)
 ![v2.0](img/20230819043715_1.jpg)
