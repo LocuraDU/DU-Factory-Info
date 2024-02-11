@@ -1,4 +1,4 @@
-:heavy_exclamation_mark: | Development taken over with permissions.
+:heavy_exclamation_mark: | OFFICIAL continuation of the Credence and BartasRS industry scripts.
 :---: | :---
 
 # Information
