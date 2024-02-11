@@ -1,4 +1,4 @@
-:heavy_exclamation_mark: | OFFICIAL continuation of the Credence and BartasRS industry scripts.
+:heavy_exclamation_mark: | OFFICIAL continuation of the BartasRS and Credence industry scripts.
 :---: | :---
 
 # Information
